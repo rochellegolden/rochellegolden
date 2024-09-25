@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rochellegolden
-- 👀 
-- 😄 Pronouns: she/her
+   - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love photographing grafitti.
 
 <!---
